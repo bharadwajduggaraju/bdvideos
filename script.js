@@ -1,4 +1,4 @@
-//Init Opperations
+//Inital Opperations
 
 if (!localStorage.vmd) {
   //Master Data
