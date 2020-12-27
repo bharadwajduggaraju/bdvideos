@@ -13,7 +13,7 @@ Thanks to Web Development Simplified For the Inspiration to Start the project an
 
 ### README.md
 
-This File! Learn About How to Use This Prroject and How It Works
+This File! Learn About How to Use This Project.
 
 ### index.html
 
@@ -23,20 +23,23 @@ Home Page! Where You Search For Videos, Discover Content and Customize Your Prof
 
 The Video Page! Watch Your Videos! Like, Dislike, Share and Save the Video. Subscribe to your favorite channels. Interact with the video by leaving a comment!
 
-## channel.html
+### channel.html
 
 The Channel Page! Where you can learn about your favorite channel. Watch their pinned video and discover their popular videos!
 
-### ← style.css
+### style.css
 
 Styles! Used to make the page look nice. Looks good on all screens
 
-### ← script.js
+### script.js
 
 Used to add functionality for all the components. Using LS for storing information and displaying it!
 
-### ← assets
+### assets
 
 All the Images and SVG's I used!
+
+Thanks for checking this project out!!!
+
 
 \ ゜ o ゜)ノ
