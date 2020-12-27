@@ -2,56 +2,41 @@
 
 Version 1.0.0
 
-Click `Show` in the header to see your app live. Updates to your code will instantly deploy and update live.
+BD Videos is a Front-end Video Watching Site. This site is heavily based on YouTube and was created by Bharadwaj Duggaraju. You Can Do many things on this site such as watching videos, subbing to channels, leaving comments, customizing your profile and much much more! Scroll Down to Learn about how to use the website and how it works!
 
-**Glitch** is the friendly community where you'll build the app of your dreams. Glitch lets you instantly create, remix, edit, and host an app, bot or site, and you can invite collaborators or helpers to simultaneously edit code with you.
+Created by [Bharadwaj Duggaraju](https://instagram.com/bharadwaj_duggaraju).
 
-Find out more [about Glitch](https://glitch.com/about).
+### Credits:
+Thanks to Web Development Simplified For the Inspiration to Start the project and the Home Page design.
 
-# Code Features:
+## Project Files
 
-Home Page:
+### README.md
 
-- Functional And Easy to Understand UI (Complete!)
-- Custom Logo (Complete!)
-- Functional Search Bar
-- Function PFP Upload, Temporary, could add permanent of wanted
-- Category Section Hidden Horizonatal Scroll (Complete!)
-- Random Thumbnails, Video Names, Views, Channel Logo and Date Uploaded
-- Random Video Play with Data-Duration Baded on that
+This File! Learn About How to Use This Prroject and How It Works
 
-Video Page:
+### index.html
 
-- Use Storage for Dynamic Video Page Based on Click
-- Stored Comment Section for the Video, based on each different title
-- Sub Like, Title, PFP and More
-- Updatae View and Date
-- Other videos on bottom
+Home Page! Where You Search For Videos, Discover Content and Customize Your Profile
 
-Random Images from [Unsplash.it](https://picsum.photos/)
+### video.html
 
-## Your Project
+The Video Page! Watch Your Videos! Like, Dislike, Share and Save the Video. Subscribe to your favorite channels. Interact with the video by leaving a comment!
 
-### ← README.md
+## channel.html
 
-That's this file, where you can tell people what your cool website does and how you built it.
-
-### ← index.html
-
-Where you'll write the content of your website.
+The Channel Page! Where you can learn about your favorite channel. Watch their pinned video and discover their popular videos!
 
 ### ← style.css
 
-CSS files add styling rules to your content.
+Styles! Used to make the page look nice. Looks good on all screens
 
 ### ← script.js
 
-If you're feeling fancy you can add interactivity to your site with JavaScript.
+Used to add functionality for all the components. Using LS for storing information and displaying it!
 
 ### ← assets
 
-Drag in `assets`, like images or music, to add them to your project
-
-## Made by [Glitch](https://glitch.com/)
+All the Images and SVG's I used!
 
 \ ゜ o ゜)ノ
