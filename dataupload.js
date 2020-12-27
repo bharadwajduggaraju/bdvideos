@@ -3477,6 +3477,6 @@ let channeldatatemp = {
   }
 };
 
-//Upload to a temp variable so that it can be loaded from a different page and not take up space on the index.js file
+//Upload to a temporary variable so that it can be loaded from a different page and not take up space on the index.js file
 localStorage.tempupload = JSON.stringify(videomasterdatatemp);
 localStorage.tempchannelupload = JSON.stringify(channeldatatemp);
